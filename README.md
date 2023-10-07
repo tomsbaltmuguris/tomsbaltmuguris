@@ -1,18 +1,11 @@
-🙋   Hi! Wanted to tell a little more about myself:
-Hi! Welcome to my page :)
-🙋   Wanted to tell a little more about myself:
-   🧑‍💻   Currently studying at SSE Riga (Stockholm School of Economics in Riga) (Class of 2022)
-    📊   Love the finance, analytics and sports fields.
-    💓   Passionate with problem solving and data analytics.
-    🌍   Currently living in Latvia, Riga.
-    🎿   Hobbies: Freestyle skiing, pretty big fan of rollerblading and currently a big fan of padel. (Pretty terrible at it though :D)
-@@ -1,11 +1,13 @@
+
 ## Hi! Welcome to my page :)
 ### :raising_hand: &nbsp;  Wanted to tell a little more about myself:
 
 ### :raising_hand: &nbsp; Hi! Wanted to tell a little more about myself:
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Currently studying at [SSE Riga](https://www.sseriga.edu/) (Stockholm School of Economics in Riga) (Class of 2022) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp; Graduate [SSE Riga](https://www.sseriga.edu/) (Stockholm School of Economics in Riga) (Class of 2023) \
+&nbsp;&nbsp;&nbsp;:bar_chart: &nbsp; Working as an analytics consultant at [Veriteer](https://veriteer.com/). \
 &nbsp;&nbsp;&nbsp;:bar_chart: &nbsp; Love the finance, analytics and sports fields.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; Passionate with problem solving and data analytics.\
 &nbsp;&nbsp;&nbsp;:earth_africa: &nbsp; Currently living in Latvia, Riga.\
